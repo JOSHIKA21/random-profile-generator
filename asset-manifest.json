@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/random-profile-api/static/css/main.44f8b8b5.css",
+    "main.js": "/random-profile-api/static/js/main.c8544004.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/random-profile-api/static/js/787.f2a0fa2f.chunk.js",
+    "index.html": "/random-profile-api/index.html",
+    "main.44f8b8b5.css.map": "/random-profile-api/static/css/main.44f8b8b5.css.map",
+    "main.c8544004.js.map": "/random-profile-api/static/js/main.c8544004.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/random-profile-api/static/js/787.f2a0fa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.c8544004.js"
+  ]
+}
